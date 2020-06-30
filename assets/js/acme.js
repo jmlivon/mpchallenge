@@ -370,7 +370,6 @@ $(document).ready(function() {
 			"name":posName, 
 			"fixed_amount": true,
 			"category": category,
-			"store_id": "123456",
 			"external_store_id": externalStoreID,
 			"external_id": externalPOSID
 		};
